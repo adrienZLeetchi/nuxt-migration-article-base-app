@@ -9,7 +9,7 @@ const messages = {
   en: {
     headerHomeLink: "Home",
     headerCharachtersLink: "Characters",
-    FilterLabel: "Filter Neame",
+    FilterLabel: "Filter Name",
   },
 };
 
